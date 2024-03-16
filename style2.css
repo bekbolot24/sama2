@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #0776A0;}
+    footer {
+         background: #024C68;
+    width: 959px;
+    height: 161px;
+    padding: 10px;}
+
+.a{
+            border-top: 5px solid black;
+            border-bottom:5px solid black;
+
+}
+h2{
+    color: red;}
+
+        
+h1 {
+    text-align: center;
+}
+     
+    
